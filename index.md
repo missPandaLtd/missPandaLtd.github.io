@@ -8,3 +8,5 @@ description: This is the Entry Page.
 We are a company dedicated to privde you different kind of food and snacks from around the world,
 
 [Privacy Policy](./privacypolicy.html).
+
+[Terms & Conditions](./terms&conditions.html).
